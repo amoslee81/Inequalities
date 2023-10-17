@@ -1,0 +1,3 @@
+(function(){var loadHandler=window['sl_{78A4A4A7-DC4F-45FF-BD29-0F68F704E003}'];loadHandler&&loadHandler(9, '<div id="spr0_237431d"><div id="spr1_237431d" class="kern slide"><img id="img2_237431d" src="data/img58.jpg" width="1280px" height="720px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_237431d" class="kern slide"><div id="spr3_237431d" style="left:36px;top:181.5px;"><img id="img0_237431d" src="data/img56.png" width="674.25" height="357" alt=""/></div><div id="spr4_237431d" style="left:81px;top:271.5px;"><img id="img1_237431d" src="data/img57.png" width="540" height="219.75" alt="\
+Criminal Investigation\
+Criminal investigators determine the trajectories of bullets by using quadratic equations."/></div></div></div>', '{"s":[]}');})();
